@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Sanchez 🧑🏻‍💻</h1>
-<h3 align="center">Backend Developer with a Passion for Education
+<h3 align="center">AI Engineer with a Passion for Education
 
 Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
 
-- 🤖 I’m currently working on **Caseware | AiDA, Caseware’s AI-powered product**
+- 🤖 I worked on **Caseware | AiDA, Caseware’s AI-powered product**
 
 - 🔭 I worked on **ACI Worldwide | Bre-B project for Banco de la República**
 
