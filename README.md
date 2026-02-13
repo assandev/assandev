@@ -1,4 +1,4 @@
-### Hi there! <img src="assets/aang.gif" width="50" style="border-radius: 50%; vertical-align: middle; margin-left: -4px;" />
+<h3>Hi there! <img src="assets/aang.gif" width="30" /></h3>
 
 I'm [Andres](https://assandev.vercel.app/), AI Engineer & Product Thinker.
 
