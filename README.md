@@ -1,8 +1,9 @@
-<h3>Hi there! <img src="assets/aang.gif" width="30" /></h3>
+**Hi there!** <img src="assets/aang.gif" width="60" align="absmiddle"/>
 
 I'm [Andres](https://assandev.vercel.app/), AI Engineer & Product Thinker.
 
 I like building AI-driven systems end-to-end, from understanding the problem and the people behind it, to designing system architectures and delivering production-ready solutions.
+
 
 
 **I'm focused on:**
