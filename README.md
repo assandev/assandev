@@ -1,4 +1,4 @@
-### Hi there! <img src="aang.gif" width="50" style="border-radius: 50%; vertical-align: middle; margin-left: -4px;" />
+### Hi there! <img src="assets/aang.gif" width="50" style="border-radius: 50%; vertical-align: middle; margin-left: -4px;" />
 
 I'm [Andres](https://assandev.vercel.app/), AI Engineer & Product Thinker.
 
@@ -29,7 +29,7 @@ I like building AI-driven systems end-to-end, from understanding the problem and
 
 - [Cerberus](https://github.com/assandev/cerberus) - CNN-based system to enhance transparency in handwritten vote reporting 🚧.
 - [ATUM](https://github.com/assandev/ATUM) - AI-powered developer assistant that generates, evaluates, and improves source code.
-- [Tudor](https://github.com/assandev/Tudor) - Machine Learning model designed to predict Premier League matches 🚧 
+- [Tudor](https://github.com/assandev/Tudor) - Machine Learning model designed to predict Premier League matches 🚧. 
 - [Pre-Q](https://github.com/assandev/Pre-Q) - Conversational agent that qualifies leads through rule-based reasoning.
 
 - [AI Order Manager](https://github.com/assandev/AI-Order-Manager) - AI-enhanced backend for automating customer communication.
