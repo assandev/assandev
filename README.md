@@ -28,8 +28,8 @@ I like building AI-driven systems end-to-end, from understanding the problem and
 
 **Personal projects that I've built**
 
-- [Guardian](https://github.com/assandev/aegisai-agentic-poc) - AI-powered multi-agent pipeline that turns free-text safety observations into scored hazards, prioritized risks, and OSHA-compliant action plans.
-- [Samy The Grand Maester](https://github.com/assandev/Samy-The-Grand-Maester) - RAG Architecture assistant that indexes documents locally and answers questions with citations, page jumps, and guided inspection of the full RAG pipeline.
+- [Guardian](https://github.com/assandev/aegisai-agentic-poc) - Multi-agentic architecture that turns safety observations into hazards, prioritized risks, and OSHA-compliant action plans.
+- [Samy The Grand Maester](https://github.com/assandev/Samy-The-Grand-Maester) - RAG Architecture assistant that indexes documents locally and answers questions with citations.
 - [ATUM](https://github.com/assandev/ATUM) - AI-powered developer assistant that generates, evaluates, and improves source code.
 - [Pre-Q](https://github.com/assandev/Pre-Q) - Conversational agent that qualifies leads through rule-based reasoning.
 - [AI Order Manager](https://github.com/assandev/AI-Order-Manager) - AI-enhanced backend for automating customer communication.
